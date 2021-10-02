@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @1TopCodin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+М- 👋 Hi, I’m @1TopCodinа ктоооооо
+- 👀 I’m interested in ...питон
+- 🌱 I’m currently learning ...тут
+- 💞️ I’m looking to collaborate on ...кодин
+- 📫 How to reach me ...истоков
 
 <!---
 1TopCodin/1TopCodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
